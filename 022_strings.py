@@ -18,10 +18,11 @@ my_name = 'Kay'
 
 # In Python, there's no meaningful difference between the
 # two.
+# In Rust, there is a difference, and it’s for a good reason.
 
 # Try out creating a string with your name in it:
 
-your_name = ???
+your_name = "Arsen"
 print(your_name)
 
 # @TASK: Check your work by running this file with:
